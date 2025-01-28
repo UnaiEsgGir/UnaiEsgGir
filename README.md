@@ -1,7 +1,7 @@
-## Hi there 👋
-# ✨ Java ✨
-# 💎 C# 💎
-# ⚡ Python ⚡
+# Hi there 👋
+## ✨ Java ✨
+## 💎 C# 💎
+## ⚡ Python ⚡
 
 
 
