@@ -21,6 +21,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/UnaiEsgGir/UnaiEsgGir/output/snake.svg" alt="Snake animation" />
-
 ###
